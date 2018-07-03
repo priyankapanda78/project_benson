@@ -1,5 +1,5 @@
 # Readme
-
+Changing the Readme file
 ## Smaller heading
 
 ### Even smaller heading
@@ -28,5 +28,5 @@ Here is my checklist of things to do:
 ## Priorities:
 1. Make presentation
 2. Collect check
-3.Flight to Cayman Islands
+3. Flight to Cayman Islands
 
